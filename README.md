@@ -1,10 +1,6 @@
 ## Project Overview
 In this module, we explore and implement neural networks using the TensorFlow platform in Python. We discuss the background and history of computational neurons as well as current implementations of neural networks as they apply to deep learning. We discuss the major costs and benefits of different neural networks and compare these costs to traditional machine learning classification and regression models. Additionally, we practice implementing neural networks and deep neural networks across a number of different datasets, including image, natural language, and numerical datasets. Finally, we learn how to store and retrieve trained models for more robust uses. 
 
-## Resources
-- **Data Source:** [charity_data.csv](/Resources/charity_data.csv)
-- **Software:** Jupyter Notebook, Python  
-
 ## Objectives 
 - Compare the differences between the traditional machine learning classification and regression models and the neural network models.
 - Describe the perceptron model and its components.
@@ -38,7 +34,6 @@ We received a CSV containing more than 34,000 organizations that have received v
 - Optimize model training and input data to achieve desired model performance. 
 
 ## Challenge Summary  
-[AlphabetSoupChallenge.ipynb](/Notebook/AlphabetSoupChallenge.ipynb)  
 
 **Import and characterize the input data.**  
 - What variable(s) are considered the target for your model?
